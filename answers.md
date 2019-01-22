@@ -94,7 +94,11 @@ nothing to commit, working tree clean
 
 Answer10:No
 
+Answer11:Everything up-to-date
 
 
+Answer12: Yes, Already up to date.
+
+Answer13:.  ..  .git  .gitignore  README.md
 
 
