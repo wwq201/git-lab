@@ -56,4 +56,45 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 
-Answer5:
+Answer5:On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	answers.md
+
+Answer6: On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   README.md
+	new file:   answers.md
+Answer7:On branch master
+nothing to commit, working tree clean
+
+Answer8:commit 0120bcc57fba9431adb0b805338fb98fe40a9b65 (HEAD -> master)
+Author: WeiqiangWang <ww669616@ohio.edu>
+Date:   Tue Jan 22 10:18:37 2019 -0500
+
+    Initial commit
+Answer9:On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+Answer10:No
+
+
+
+
+
